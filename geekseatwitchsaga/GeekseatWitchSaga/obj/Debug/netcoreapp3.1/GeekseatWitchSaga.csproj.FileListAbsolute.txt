@@ -1,0 +1,110 @@
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.exe
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.deps.json
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.json
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.dll
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.xml
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeekseatWitchSaga.styles.css
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.input.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.output.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorCoreGenerate.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\GeekseatWitchSaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CopyComplete
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.exe
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.deps.json
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.json
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.dll
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeekseatWitchSaga.styles.css
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.input.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.output.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorCoreGenerate.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CopyComplete
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.exe
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.deps.json
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.json
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.runtimeconfig.dev.json
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.dll
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\bin\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.AssemblyReference.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfoInputs.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.AssemblyInfo.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CoreCompileInputs.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorAssemblyInfo.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.Manifest.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\staticwebassets\GeekseatWitchSaga.StaticWebAssets.xml
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeekseatWitchSaga.styles.css
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.input.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.TagHelpers.output.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorCoreGenerate.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.RazorTargetAssemblyInfo.cs
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.Views.pdb
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.dll
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.pdb
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.genruntimeconfig.cache
+C:\Users\klodj\Desktop\GWS\geekseatwitchsaga\GeekseatWitchSaga\obj\Debug\netcoreapp3.1\GeekseatWitchSaga.csproj.CopyComplete

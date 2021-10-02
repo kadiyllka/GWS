@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\klodj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\klodj\\.nuget\\packages"
+    ]
+  }
+}
